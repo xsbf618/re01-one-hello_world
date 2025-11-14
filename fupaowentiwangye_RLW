@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>李恩杰</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="background-color: #f1f1f1;
+    text-align: center;
+    padding: 40px;">
+    <img src="https://i.imgs.ovh/2025/07/28/nxKqn.jpeg" alt="jack" width="80px" height="80px"/>
+    </div>
+    <div style="max-width: 700px;
+    margin: 30px auto;
+    padding: 15px;
+    line-height: 1.7px;
+    ">
+    <p>你好啊，我是李恩杰。😉</p>
+    <br/>
+    <p>全民反诈必修课</p>
+    <p>早期防三招</p>
+    <p>天上不会掉馅饼</p>
+    <p>不要给陌生人转钱</p>
+    <p>不要相信陌生人的话</p>
+    <br/>
+    <p>预防三部曲</p>
+    <p>防自己</p>
+    <p>防骗子</p>
+    <p>防境外</p>
+    <br/>
+    <p>提醒</p>
+    <p>第一不要相信任何高额的收益投资</p>
+    <p>第二不要相信市面上99%以上理财相关的培训公司，任何打着教你赚钱帮你赚钱的幌子的人它唯一目的就是想要你口袋里的钱。</p>
+    <p>第三越是熟人越要警惕</p>
+    <p>会继续更新的，<mark>不要借钱给别人！！！！</mark></p>
+    <div style="background-color: #f1f1f1;
+    text-align: center;
+    margin: auto;
+    padding: 40px;
+    fontf-size: 12px;
+    ">
+    <p>我的静态网站</p>
+    <a href="https://kangwenchang.com/">友情链接</a>
+    </div>
+  </body>
+</html>
