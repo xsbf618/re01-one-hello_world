@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>李恩杰</title>
+    <title>xxx</title>
     <style>  
       body {
         margin: 0;
@@ -21,7 +21,7 @@
     padding: 15px;
     line-height: 1.7px;
     ">
-    <p>你好啊，我是李恩杰。😉</p>
+    <p>你好啊，我是xxx。😉</p>
     <br/>
     <p>全民反诈必修课</p>
     <p>早期防三招</p>
